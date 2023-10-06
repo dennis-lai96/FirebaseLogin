@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625693516140",
+    "project_id": "cs481firebaselogin",
+    "storage_bucket": "cs481firebaselogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625693516140:android:28a67e8b0e54a2927a1349",
+        "android_client_info": {
+          "package_name": "com.hfad.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-fzQT3fqmT3d-2O9neqJ-tnUe2fN01A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
